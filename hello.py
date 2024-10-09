@@ -1,1 +1,1 @@
-print("Hello JD!")
+print("No conflicts!")
